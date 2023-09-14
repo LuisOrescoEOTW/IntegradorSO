@@ -1,0 +1,5 @@
+{"Proceso": 1, "Arribo": 0, "Servicio":3}
+{"Proceso": 2, "Arribo": 2, "Servicio":6}
+{"Proceso": 3, "Arribo": 4, "Servicio":4}
+{"Proceso": 4, "Arribo": 6, "Servicio":5}
+{"Proceso": 5, "Arribo": 8, "Servicio":2}
